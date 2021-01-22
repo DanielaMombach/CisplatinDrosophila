@@ -3,11 +3,11 @@ Tiago Minuzzi. January, 2020.
 Github: https://github.com/Tiago-Minuzzi/
 
 # Description 
-Split reads larger than 150 bp into two parts.
+Split reads larger than 150 bp in half.
 
 # Prerequisites
 - python3
-- 'fastq-and-furious' python module
+- fastq-and-furious python module
 
 ## Installation
 If they are not installed, use the following commands (for debian-based linux distros):
