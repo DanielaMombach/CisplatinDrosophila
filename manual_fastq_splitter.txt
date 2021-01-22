@@ -1,0 +1,12 @@
+Criado por Tiago Minuzzi. Janeiro de 2020.
+Script para dividir reads maiores que 150 pb em duas partes.
+
+Para usar o script 'fastq_splitter.py', precisa-se do python3 e do modulo 'fastq-and-furious' instalados no computador.
+Caso nao estejam instalados, usar os seguintes comandos:
+sudo apt install python3
+sudo apt install python3-pip
+sudo pip3 install fastq-and-furious
+
+Após instalados, usa-se o script da seguinte forma no terminal:
+python3 fastq_splitter.py arquivo_de_entrada.fq > arquivo_de_saida.fq
+
