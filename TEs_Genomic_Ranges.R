@@ -40,7 +40,7 @@ Genes$Start_UP=Genes$start-x
 Genes$End_Down=Genes$end+x
 
 # And now redo the Ranges but with the new Start or end
-Search for promoter/regulatory region with TE sequence
+# Search for promoter/regulatory region with TE sequence
 GenesRanges_UP=GRanges(seqnames=Genes$chromosome,ranges=IRanges(start=as.numeric(as.vector(Genes$S)),end=as.numeric(as.vector(Genes$start))),name=Genes$info)
 
 #Search for TE sequence downstream gene
