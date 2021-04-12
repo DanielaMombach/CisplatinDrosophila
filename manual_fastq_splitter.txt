@@ -3,7 +3,7 @@ Tiago Minuzzi. January, 2020.
 Github: https://github.com/Tiago-Minuzzi/
 
 # Description 
-Split reads larger than 150 bp in half.
+Split reads larger than 100 bp in half.
 
 # Prerequisites
 - python3
