@@ -17,3 +17,5 @@ sudo pip3 install fastq-and-furious
 # Usage
 To run fastq_splitter script use:
 python3 fastq_splitter.py input_file.fq > output_file.fq
+
+For 100bp it results in reads ranging from 50 to 100bp.
