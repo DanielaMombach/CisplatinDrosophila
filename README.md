@@ -1,5 +1,5 @@
 # CisplatinDrosophila
-Code for Bioinformatics Analyses of Cisplatin molecular and biological effects in Drosophila.
+Code for Bioinformatics Analyses of Molecular and biological effects of Cisplatin in Drosophila.
 
 ## -> python script to split reads above 100bp
 fastq_splitter.py (manual_fastq_splitter.txt)
