@@ -1,5 +1,5 @@
 # CisplatinDrosophila
-Code for Bioinformatics Analyses of Molecular and biological effects of Cisplatin in Drosophila.
+Code for Bioinformatics Analyses of Mombach DM, Fontoura Gomes TMFD, Silva MM, Loreto ÉLS. Molecular and biological effects of Cisplatin in Drosophila. Comp Biochem Physiol C Toxicol Pharmacol. 2022 Feb;252:109229. doi :10.1016/j.cbpc.2021.109229
 
 ## -> python script to split reads above 100bp
 fastq_splitter.py (manual_fastq_splitter.txt)
